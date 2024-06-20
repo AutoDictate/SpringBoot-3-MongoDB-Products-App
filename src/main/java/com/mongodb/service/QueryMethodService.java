@@ -5,7 +5,6 @@ import java.util.List;
 
 import com.mongodb.entity.Product;
 import com.mongodb.repository.ProductRepository;
-import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
